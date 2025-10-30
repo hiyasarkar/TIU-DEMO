@@ -1,6 +1,7 @@
 
 # 🧾 Certificate Issuer Smart Contract
-![Uploading image.png…]()
+
+<img width="1895" height="900" alt="image" src="https://github.com/user-attachments/assets/0311fe75-a92b-483c-8aac-5b723cb0f5b8" />
 
 A **blockchain-based certificate management system** that allows trusted issuers to issue, revoke, and verify certificates securely on-chain. This project is built using **Solidity** and leverages **OpenZeppelin’s AccessControl** and **ERC721** standards to make certificates verifiable and tamper-proof.
 
